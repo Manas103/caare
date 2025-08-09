@@ -1,0 +1,14 @@
+# core app
+streamlit
+networkx
+numpy
+scipy
+pandas
+
+# quantum stacks
+qiskit
+qiskit-aer
+pennylane
+
+# optional (planned)
+classiq
