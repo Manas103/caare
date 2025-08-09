@@ -1,5 +1,6 @@
 # CAARE — Classiq Auto-Ansatz & Resource Explorer
 
+This is my CQhack25 Hackathon Submission
 It's an interactive Streamlit app to **model, solve, and analyze** combinatorial optimization problems with both **classical** and **quantum (QAOA)** approaches, plus **Classiq SDK** for auto-ansatz synthesis and a **resource explorer**.
 
 ## What it does
